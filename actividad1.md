@@ -1,12 +1,12 @@
 Apuntes-Actividades-IA
-
-Repositorio de apuntes, actividades y proyectos de la materia de IA, de Melvin Marin Gonzalez.
+Alberto Vilchez Hurtado.
+Repositorio de apuntes, actividades y proyectos de la materia de IA.
 
 1.- Actividad 05/02/2025
 
 En esta actividad, se debe determinar el camino más eficiente desde un punto de inicio (A) hasta un punto objetivo (B) dentro de una cuadrícula. Para ello, se aplican conceptos de teoría de grafos y se realizan cálculos específicos para evaluar los costos de desplazamiento.
 
-📌 Normas de Movimiento en la Cuadrícula
+-Normas de Movimiento en la Cuadrícula
 
 Tipos de movimientos permitidos:
 
@@ -26,7 +26,7 @@ H (Costo heurístico): Es una estimación del costo restante para llegar a la me
 
 F (Costo total estimado): Se obtiene sumando G y H, es decir: F = G + H.
 
-🔍 Procedimiento para Encontrar el Camino Óptimo
+-Procedimiento para Encontrar el Camino Óptimo
 
 Inicio del proceso:
 
