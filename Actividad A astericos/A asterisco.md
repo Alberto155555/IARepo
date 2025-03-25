@@ -113,6 +113,6 @@ El programa visualiza en tiempo real cómo avanza el algoritmo A* desde el nodo 
 ### Recursos Adicionales
 
 - ![Gráfico de la Actividad](uno.jpg)
--  ![Gráfico de la Actividad](dos.1.jpg)
+- ![Gráfico de la Actividad](dos.jpg)
 - ![Gráfico de la Actividad](tres.jpg)
--  ![Gráfico de la Actividad](cuatro.1.jpg)
+- ![Gráfico de la Actividad](cuatro.jpg)
