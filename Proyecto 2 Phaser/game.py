@@ -13,7 +13,7 @@ pygame.init()
 # Pantalla
 w, h = 800, 400
 pantalla = pygame.display.set_mode((w, h))
-pygame.display.set_caption("MasterChief: Esquivar proyectiles")
+pygame.display.set_caption("Esquivar proyectiles")
 
 # Colores
 BLANCO = (255, 255, 255)
@@ -399,7 +399,6 @@ def mostrar_menu():
                     modo_nn = modo_arbol = False
                     menu_activo = False
                 elif evento.key == pygame.K_q:
-                    # Guardar solo si modo manual antes de salir
                     if not (modo_nn or modo_arbol or modo_KNN):
                         guardar_datos()
                     print("Juego terminado")
@@ -584,7 +583,7 @@ def main():
 
             actualizar_juego()
 
-            # Colisión
+            # Colisión 
             if jugador.colliderect(plasma) or jugador.colliderect(bala_vertical):
                 print("Moriste")
                 if not (modo_nn or modo_arbol or modo_KNN):
