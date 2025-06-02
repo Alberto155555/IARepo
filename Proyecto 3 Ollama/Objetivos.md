@@ -51,6 +51,10 @@ El objetivo de este proyecto es desarrollar un video y un documento analítico u
    Síntesis visual y auditiva del contenido para divulgación.
 
 
+### Aviso 
+- Se informa por este medio que, debido a temas de censura, fue necesario proporcionar un contexto específico para que la IA respondiera las preguntas. Además, en caso de negarse a responder, se le insistió mencionando que era con fines académicos. Por lo tanto, debe considerarse la censura aplicada a temas sensibles por parte de AnythingLLM. Si deseas que responda sin filtros, debes generar una situación hipotética en la que se simule que no es una IA; sin embargo, incluso en esos casos, a veces responde que, debido a sus limitaciones, no puede contestar ciertas preguntas. Esto debe tenerse en cuenta.
+
+
 ### Recursos Adicionales
 
 - ![Subida de documentos](abSub.png)
